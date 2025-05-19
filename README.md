@@ -10,6 +10,12 @@ Create a heartfelt and animated Valentine’s Day greeting with this charming Pi
 * **Simple & Lightweight:** Built with pure HTML and CSS, no heavy frameworks.
 * **Animated Envelope Effect:** Delightful animations that simulate a card-opening experience.
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="Valentine Card Screenshot" width="600"/>
+</p>
+
 ## How to Use
 
 1. **Clone the Repository**
@@ -38,10 +44,6 @@ Create a heartfelt and animated Valentine’s Day greeting with this charming Pi
 
    * Use **GitHub Pages** by enabling it in your repository settings.
    * Or deploy via [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) for free.
-
-## Live Demo
-
-🎁 Coming soon! (Update this link after deployment.)
 
 ## Technologies Used
 
